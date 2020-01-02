@@ -1,0 +1,34 @@
+_repo: Our-National-Parks_60929
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Muir, John
+    birthdate: 1838
+    deathdate: 1914
+    gutenberg_agent_id: '180'
+    url: http://www.gutenberg.org/2009/agents/180
+    wikipedia: http://en.wikipedia.org/wiki/John_Muir
+description: ''
+gutenberg_issued: '2019-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60929'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'National parks and reserves -- United States'
+- !lcc 'E151'
+- !lcsh 'Sequoia National Park (Calif.)'
+- !lcsh 'Kings Canyon National Park (Calif.)'
+- !lcsh 'Yosemite National Park (Calif.)'
+- !lcsh 'Yellowstone National Park'
+- GITenberg
+tableOfContents: The wild parks and forest reservations of the West -- The Yellowstone
+  National Park -- The Yosemite National Park -- The forests of the Yosemite Park
+  -- The wild gardens of the Yosemite Park -- Among the animals of the Yosemite --
+  Among the birds of the Yosemite -- The fountains and streams of the Yosemite National
+  Park -- The Sequoia And General Grant National Parks -- The American forests.
+title: Our National Parks
+url: http://www.gutenberg.org/ebooks/60929
